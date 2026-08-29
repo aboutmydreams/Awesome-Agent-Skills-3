@@ -413,6 +413,7 @@ Skill-centric evaluation should measure more than final task success. Important 
 | **Before You Build Skill** | https://github.com/bin1874/before-you-build-skill | Pre-build product and feature risk review skill for AI coding agents |
 | **shidi-skill** | https://github.com/IcyCreamDAS/shidi-skill | Bilingual scientific research workflow skill: multi-angle literature review with per-angle files, anchored experiment design with a caveat list, figures, paper reading; returns files plus a cross-verification brief. Zero deps, MIT |
 | **skillZs** | https://skillzs.dev/ | Agent Skills discovery, guides, and security resources |
+| **d1v** | https://github.com/d1vai/d1v-cli/tree/main/skills/d1v | Deployment workflow skill for Claude Code and Codex that guides project deployment, waits for verified previews, and requires explicit confirmation before production releases |
 
 <a id="application-scenarios"></a>
 
