@@ -400,6 +400,7 @@ Skill-centric evaluation should measure more than final task success. Important 
 | **SkillHub** | https://www.skillhub.club/ | Community skill resources |
 | **SkillsMP** | https://skillsmp.com/ | Marketplace-style skill ecosystem |
 | **Skills.sh** | https://skills.sh/ | Agent skill publishing and reuse |
+| **BulkPublish Social Media Content Skills** | https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills | Reusable planning, adaptation, review, scheduling, and publishing skills for AI agents, with BulkPublish API/MCP handoff |
 | **BrowserAct Skills** | https://github.com/browser-act/skills | Browser automation skills for AI agents with local Chrome reuse, isolated sessions, and human handoff |
 | **UIZZE** | https://uizze.com | Free MIT anti-ui-slop Skill with a no-account preview at https://uizze.com/mcp/preview; full UIZZE adds live reference search, validation, and audits across 800,000+ real web and iOS screens for Codex, Claude Code, Cursor, and other coding agents |
 | **Hermes Tweet** | https://github.com/Xquik-dev/hermes-tweet | Hermes Agent X/Twitter plugin with bundled skill metadata and safe-default social workflow execution |
@@ -413,6 +414,7 @@ Skill-centric evaluation should measure more than final task success. Important 
 | **Before You Build Skill** | https://github.com/bin1874/before-you-build-skill | Pre-build product and feature risk review skill for AI coding agents |
 | **shidi-skill** | https://github.com/IcyCreamDAS/shidi-skill | Bilingual scientific research workflow skill: multi-angle literature review with per-angle files, anchored experiment design with a caveat list, figures, paper reading; returns files plus a cross-verification brief. Zero deps, MIT |
 | **skillZs** | https://skillzs.dev/ | Agent Skills discovery, guides, and security resources |
+| **Agent Coordinator** | https://github.com/alanhoff/agent-coordinator | Per-user Codex skill that coordinates dependency-aware work inline or through optional specialists, records local state, reconciles uncertain work before retry, and reruns authored checks at closeout |
 | **d1v** | https://github.com/d1vai/d1v-cli/tree/main/skills/d1v | Deployment workflow skill for Claude Code and Codex that guides project deployment, waits for verified previews, and requires explicit confirmation before production releases |
 
 <a id="application-scenarios"></a>
